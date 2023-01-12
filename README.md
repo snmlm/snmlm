@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=snmlm.snmlm.github.io) 
+![](https://visitor-badge.glitch.me/badge?page_id=snmlm) 
 [![Stars](https://img.shields.io/github/stars/snmlm/snmlm.github.io)](https://github.com/snmlm/snmlm.github.io/stargazers)
 [![Fork](https://img.shields.io/github/forks/snmlm/snmlm.github.io)](https://github.com/snmlm/snmlm.github.io/network/members)
 [![Commit](https://img.shields.io/github/commit-activity/m/snmlm/snmlm.github.io?label=Commits)](https://github.com/snmlm/snmlm.github.io/commits/master)
