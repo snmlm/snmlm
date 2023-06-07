@@ -7,3 +7,6 @@
 [![](https://img.shields.io/github/followers/snmlm?label=follow&style=social)](https://github.com/snmlm)
 
 <img src="https://api.star-history.com/svg?repos=snmlm/snmlm.github.io&type=Date" alt="Star History Chart" width="600" height="356" align="center">
+
+
+<a href="https://github.com/snmlm"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmlm&theme=prussian&layout=compact&hide=handlebars,css" alt="top-langs"></img></a>
